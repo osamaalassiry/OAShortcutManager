@@ -1,0 +1,25 @@
+[
+    {
+        "AppHash": "abc123def456...",
+        "Name": "Google Chrome",
+        "Source": [
+            "Registry",
+            "Shortcut"
+        ],
+        "TargetPath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "Arguments": "",
+        "InstallLocation": "C:\\Program Files\\Google\\Chrome\\Application",
+        "ShortcutPath": "%APPDATA%\\Microsoft\\Windows\\Start Menu\\Programs\\Chrome.lnk",
+        "IconLocation": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "IconNumber": 0,
+        "RegistryKey": "HKLM\\...\\Google Chrome",
+        "SystemLnk": true,
+        "CustomLnk": false,
+        "RebuildLnk": false,
+        "UserDesktop": false,
+        "PublicDesktop": false,
+        "UserStartMenu": true,
+        "AllUsersStartMenu": false,
+        "LastModified": "2025-04-21T12:33:00Z"
+    }
+]
